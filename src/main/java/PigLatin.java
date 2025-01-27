@@ -37,7 +37,7 @@ public class PigLatin {
 	    // your code goes here
         return -1;
     }
-    
+    }
     public String pigLatin(String sWord) {
 	    sWord = sWord.toLowerCase();
   		int vowelIndex = findFirstVowel(sWord);
